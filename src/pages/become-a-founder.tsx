@@ -23,7 +23,7 @@ const becomeCofounder: NextPage = () => {
         />
         <meta
           property="og:description"
-          content="Join early and mint NFTs from 'Founders of the Zo World' collection and become one of the only 11,111 founders of the Zo World."
+          content="Join early and mint NFTs from 'Founders of the Zo World' collection and become one of the only 1,111 founders of the Zo World."
         />
         <meta
           property="og:image"
@@ -40,7 +40,7 @@ const becomeCofounder: NextPage = () => {
         />
         <meta
           property="twitter:description"
-          content="Join early and mint NFTs from 'Founders of the Zo World' collection and become one of the only 11,111 founders of the Zo World."
+          content="Join early and mint NFTs from 'Founders of the Zo World' collection and become one of the only 1,111 founders of the Zo World."
         />
         <meta
           property="twitter:image"
